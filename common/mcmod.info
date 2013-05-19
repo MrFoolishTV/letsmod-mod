@@ -1,0 +1,20 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "Let's Mod",
+  "description": "The official LetsMod mod!",
+  "version": "0.0.1",
+  "url": "www.github.com/MrFoolishTV/letsmod-mod",
+  "updateUrl": "",
+  "authorList": [
+    "jakkeeny1113"
+  ],
+  "credits": "By jakkeeny1113, based on Equivalent Exchange 3",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
